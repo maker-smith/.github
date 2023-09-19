@@ -1,6 +1,6 @@
 ## Getting Started
 
-### Thanks for joining the Wicked Smart community! 
+### Thanks for joining the Modern Maker community! 
 
 1. Download the free and easy-to-use [Thonny code editor](https://thonny.org/).
 
